@@ -18,7 +18,7 @@ givng Thankx to thanks to **tomkaX/tomkaX**
 
 
 <h1 align="center">Hi 👋, I'm Bealfan ወዲተስፋይ </h1>
-<h3 align="center">I'm an aspiring Data Scientist, Software Engineer and Open Source contributor  </h3>
+<h3 align="center">I'm an aspiring Data Scientist, Founder SoyraLabs </h3>
 currently working on ...
 
 
@@ -43,11 +43,5 @@ currently working on ...
  <!--
 
 -->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/bealfan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bealfan/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/bealfan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bealfan height="20" width="20" /></a>
-  <a href="https://www.instagram.com/bealfan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/bealfan/" height="20" width="20" /></a>
- <a href="https://twitter.com/bealfant target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/bealfant" height="20" width="20" /></a>
 
 </p>
