@@ -17,15 +17,15 @@ givng Thankx to thanks to **tomkaX/tomkaX**
 -->
 
 
-<h1 align="center">Hi 👋, I'm Bealfan ወዲተስፋይ </h1>
-<h3 align="center">I'm an aspiring Data Scientist, Founder SoyraLabs </h3>
+<h1 align="center">Hi 👋, I'm Bealfan </h1>
+<h3 align="center">Founder :SoyraLabs </h3>
 currently working on ...
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
