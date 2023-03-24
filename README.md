@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -  I’m 
-- 🌱 I’m currently learning ...
+-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,6 +19,8 @@ givng Thankx to thanks to **tomkaX/tomkaX**
 
 <h1 align="center">Hi 👋, I'm Bealfan </h1>
 <h3 align="center">Founder 🔭:SoyraLabs🌱  </h3>
+ 
+
 currently on ...
 
   (<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" />) 
@@ -34,7 +36,7 @@ currently on ...
   
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+!(https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/bealfan?tab=repositories)
@@ -42,6 +44,8 @@ currently on ...
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **tBealfan@gmail.com**
+
+-  🌱 I’m currently learning ...
  <!--
 
 -->
